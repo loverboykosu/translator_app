@@ -6,4 +6,4 @@ This app is translator app.
 
 - Input: Japanese
 - Output: English
-- API: jabylon
+- API: deepl or google translator api
